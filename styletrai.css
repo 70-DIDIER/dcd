@@ -1,0 +1,16 @@
+table{
+    margin: 60px;
+    border-collapse: collapse;
+    color: #0e0d0d;
+    
+}
+
+td, th{
+    border: 2px solid rgb(24, 2, 2);
+    width: 400px;
+}
+.table{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 500px;
+}
